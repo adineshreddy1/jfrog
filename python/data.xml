@@ -1,0 +1,14 @@
+<data>
+    <item>
+        <name>Item 1</name>
+        <price>10.99</price>
+    </item>
+    <item>
+        <name>Item 2</name>
+    </item>
+    <item>
+        <name>Item 3</name>
+        <price>15.50</price>
+        <quantity>3</quantity>
+    </item>
+</data>
