@@ -1,12 +1,1 @@
-CGI Advantage DevOps is a Migration project that migrates a classic project and processes to automated and continuous processes using DevOps culture. The project is built from scratch to automate the processes from other existing projects and incorporate the DevOps technologies into it.
-
-Roles and Responsibilities are:-
-
-Developing & maintaining software automation tools used to manage source code, builds, testing frameworks, artifacts, sites and data, platforms, deployment, monitoring and configuration of the Infinite Campus products and related patches
-Developing & Maintaining automated CI/CD pipelines for code Build & Deployment using Jenkins.
-Arranging, automating, maintaining & managing AWS cloud-based production system and ensuring the availability, performance, scalability & security of productions system
-Build and deployed Docker containers for implementing Microservices Architecture from Monolithic Architecture.
-Orchestrated Docker container cluster using Kubernetes.
-Automated docker builds, push to harbor registry and deployment using Jenkins.
-
-Tools Used: MongoDB, Jenkins, Groovy, Shell Scripting, AWS (Amazon Web Services) and Dockers.
+,
